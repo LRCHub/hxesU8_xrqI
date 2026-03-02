@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ユートピアマジック",
+  "base_artist": "Liella!",
+  "createdAt": "2026-03-02T05:37:44.473381Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ユートピアマジック",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/01_ユートピアマジック_Liella!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ユートピアマジック",
+      "artist": "Liella!",
+      "has_synced": false,
+      "path": "select/pl_01_ユートピアマジック_Liella!.txt"
+    }
+  ]
+}
